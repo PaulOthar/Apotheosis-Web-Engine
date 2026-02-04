@@ -1,0 +1,47 @@
+{
+	"----TEXTURE_SYMBOLS----":	"texture slot types",
+	"HUD"	:	0,
+	"TILE"	:	1,
+	"BASIC"	:	2,
+	"TETRA"	:	3,
+	"OCTAL"	:	4,
+	"HEXAL"	:	5,
+
+	"----TILE_FURNITURE_TYPE_SYMBOLS----":	"furniture types",
+	"ORNAMENT_BASIC"		:	1,
+	"ORNAMENT_TETRA"		:	2,
+	"ORNAMENT_OCTAL"		:	3,
+	"ORNAMENT_HEXAL"		:	4,
+	
+	"ORNAMENT_WALL"			:	5,
+	"ORNAMENT_FENCE"		:	6,
+	"ORNAMENT_BUSH"			:	7,
+	"ORNAMENT_FLOOR"		:	8,
+	
+	"----TILE_FURNITURE_CONFIG_SYMBOLS----": "furniture config",
+	"ORNAMENT_FENCE_HORIZONTAL"	:	1,
+	"ORNAMENT_FENCE_VERTICAL"	:	2,
+
+	"----COMPONENT_CANON_NAME----": "component canon name",
+	"COMPNM_ENGINE"			:	1095061063,
+	"COMPNM_WORLD_C"		:	1464616003,
+	"COMPNM_TEXTURE_C"		:	1413830723,
+	"COMPNM_ASSET_C"		:	1397900099,
+
+	"----EVENT_HEADER_SYMBOLS----":	"event headers",
+	"EV_H_ENGINE_KEY_ARROWS"		:	1,
+	"EV_H_ENGINE_KEY_OK"			:	2,
+	"EV_H_ENGINE_KEY_RETURN"		:	3,
+	"EV_H_ENGINE_KEY_ESCAPE"		:	4,
+	"EV_H_ENGINE_KEY_CLUTCH"		:	5,
+	"EV_H_TEXTURE_LOAD_ENVIRONMENT"	:	1,
+	"EV_H_WORLD_UPDATE_CHUNK"		:	1,
+
+	"----EVENT_PAYLOAD_SYMBOLS----": "event payloads",
+	"EV_P_ENGINE_KEY_LEFT"	:	1,
+	"EV_P_ENGINE_KEY_RIGHT"	:	2,
+	"EV_P_ENGINE_KEY_UP"	:	4,
+	"EV_P_ENGINE_KEY_DOWN"	:	8,
+
+	"---NIL---":	"end of file"
+}
