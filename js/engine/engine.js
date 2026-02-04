@@ -9,7 +9,7 @@ import { EVENT_PAYLOAD, EVENT_HEADER } from "./eventConstants.js";
 import { isometric_scene_render, isometric_movement } from "./renderers/isometric/scene.js";
 import { flat_scene_render, flat_movement } from "./renderers/flat/scene.js";
 import { first_person_scene_render, first_person_movement } from "./renderers/first_person/scene.js";
-import { _tech_chunk_view_movement, _tech_chunk_view_scene } from "./renderers/_tech/chunk_view/scene.js";
+import { _tech_chunk_view_movement, _tech_chunk_view_scene } from "./renderers/tech/chunk_view/scene.js";
 
 export const ENGINE_FLAGS = {
     DEPTH_SHOW:         1 << 0,
